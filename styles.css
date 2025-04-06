@@ -59,7 +59,7 @@ body{
   }
 
   .card-title{
-    color: hsl(47, 88%, 63%);
+    color: hsl(0, 0, 0);
     font-family: figtree-variable, sans-serif;
     margin: 8px 0;
   }
